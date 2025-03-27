@@ -1,0 +1,4 @@
+data*
+secrets/
+.git/
+.DS_Store
